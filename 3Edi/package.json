@@ -1,0 +1,16 @@
+{
+  "name": "3edi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tut6.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1"
+  }
+}
